@@ -13,7 +13,7 @@ pandas
 
 ## Langkah menjalankan program
 
-Copy `myConvexHull.py` ke folder src, lalu jalankan notebook  `test.ipynb` di VSCode.
+Copy `myConvexHull.py` ke folder bin, lalu jalankan notebook  `test.ipynb` di VSCode.
 
 Jalankan library loader terlebih dahulu, lalu jalankan data test di seksi berikutnya.
 
