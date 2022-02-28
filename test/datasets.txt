@@ -1,0 +1,5 @@
+# Semua dataset bawaan scipy
+
+1. Petal length vs width (from load_iris)
+2. Sepal length vs width (from load_iris)
+3. Alcohol vs malic acid (from load_wine)
